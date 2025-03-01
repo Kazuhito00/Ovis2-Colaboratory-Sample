@@ -1,5 +1,5 @@
 # Ovis2-Colaboratory-Sample
-Colaboratory上で[AI-Safeguard/Ivy-VL-llava](https://huggingface.co/AI-Safeguard/Ivy-VL-llava)をお試しするサンプルです。<bR>
+Colaboratory上で[Ovis2](https://huggingface.co/collections/AIDC-AI/ovis2-67ab36c7e497429034874464)をお試しするサンプルです。<bR>
 
 > [!NOTE]
 > ランタイムタイプはL4 GPU以上必須です
